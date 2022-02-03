@@ -8,4 +8,4 @@ for i in range(s):
     count += count * g
 print('Сумма за', s, 'недель(ли) составляет___', count)
 print(345)
-
+print(987)
