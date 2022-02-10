@@ -49,7 +49,6 @@ while True:
     else:
         print('Вы выбрали неверную операцию!')
         continue
-print(1)
 
         
 
